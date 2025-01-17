@@ -11,3 +11,6 @@ Here we are adding more to the readme.
 
 
 added some more stuff here
+
+
+Alright, now I am adding some new text from my R-studio
